@@ -1,0 +1,24 @@
+{
+    "js": [
+        "js/libs/jquery-3.5.1.js",
+        "js/libs/underscore.js",
+        "js/libs/backbone.js",
+        "js/utils/template.js",
+
+        "js/models/additionModel.js",
+
+        "js/views/additionView.js",
+        "js/views/termView.js",
+        "js/views/sumView.js",
+
+        "js/init.js"
+    ],
+    "templates": [
+        "templates/addition.html",
+        "templates/term.html"
+    ],
+
+    "css": [
+        "css/addition.css"
+    ]
+}

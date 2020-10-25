@@ -1,0 +1,10 @@
+.addition .numberDiv {
+    display: inline-block;
+}
+.term .value {
+    background-color: #dddddd;
+    padding: 5px;
+}
+.addition #term1:hover, .addition #term2:hover {
+    cursor: pointer
+}
